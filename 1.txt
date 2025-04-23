@@ -1,0 +1,39 @@
+It support
+
+resolution,monitoring
+
+consider from p1 to p4
+
+1.incident reception
+
+2. incident management: Servicenow
+timestamp
+description
+priority
+
+3.initial triage
+
+ITL concepts
+
+incident,change,problem,sla,priorities
+
+log-splunks
+
+micro services
+
+l1-troubleshoot
+l2-analyse logs
+l3-cycle level bug fixes
+
+ITSM
+
+JIRA 
+splunk = 500 or  exception
+graphana- metrics (timestamp)
+
+
+git init - initialize
+git add.
+git branch -M 
+git branch
+
